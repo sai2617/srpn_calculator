@@ -5,6 +5,6 @@ This will be worked and used as calculator
 
 And for jenkins job after giving details in jenkins github link and all
 
-python list
+python nameofTheFile
 
 this should be entered and then run
